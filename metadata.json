@@ -1,0 +1,6 @@
+{
+  "name": "Reportes Preventivo - Holcim",
+  "description": "Sistema digital de reportes de mantenimiento preventivo para analizadores CEM's, bandas pesadoras, motores eléctricos, dosificadores y análisis de seguridad AST.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
